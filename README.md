@@ -1,4 +1,4 @@
-# HTML Encoder
+# HTML Letter Encryptor
 
 ![image](https://raw.githubusercontent.com/alexrony21/Letter-Encryptor/refs/heads/main/Html_Encoder.png)
 ![image](https://raw.githubusercontent.com/alexrony21/Letter-Encryptor/refs/heads/main/Front_Proof.png)
